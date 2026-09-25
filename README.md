@@ -57,7 +57,8 @@ The game uses object-oriented programming and separates gameplay logic, renderin
 ## Gameplay screenshots
 
 <img width="959" height="539" alt="Screenshot 2026-09-25 133637" src="https://github.com/user-attachments/assets/106df689-d47b-4051-8114-46e927d735c2" />
-<img width="959" height="539" alt="Screenshot 2026-09-25 133637" src="https://github.com/user-attachments/assets/60102d76-b69c-42f5-9d3a-902a1c012f0f" />
+<img width="959" height="539" alt="Screenshot 2026-09-25 133649" src="https://github.com/user-attachments/assets/6bef4f2d-cd6a-4ed4-83fb-a1c5688a645b" />
+
 
 
 ## Source code
